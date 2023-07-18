@@ -15,7 +15,7 @@ if __name__  == "__main__":
 
 <div align="center">
 
-[![Generic badge](https://img.shields.io/badge/instagram-ugurkan-purple.svg)](https://www.instagram.com/ugurkan.44/)
+[![Generic badge](https://img.shields.io/badge/instagram-ugurkan-purple.svg)](https://www.instagram.com/ugurkanozdemir/)
 ![Generic badge](https://img.shields.io/badge/language-Python-blue.svg)
 <br>
 </div>
